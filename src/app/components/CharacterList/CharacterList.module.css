@@ -1,0 +1,15 @@
+.wrapper {
+  margin: 3rem;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.paginationContainer {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}

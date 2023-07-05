@@ -1,0 +1,14 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  padding-top: 4rem;
+  min-height: 100vh;
+}
+
+.title {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+}
